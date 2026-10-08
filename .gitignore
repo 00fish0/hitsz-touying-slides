@@ -1,0 +1,5 @@
+*.pdf
+*.pdfpc
+assets/local/
+.typst/
+.qa/
